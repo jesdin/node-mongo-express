@@ -10,3 +10,6 @@ npm install
 npm start
 ```
 your server is hosted on "http://localhost:3000/"
+
+## to access the hello world page
+go to "http://localhost:3000/helloworld"
